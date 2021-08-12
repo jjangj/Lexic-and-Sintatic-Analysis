@@ -1,5 +1,4 @@
-/* Universidade Estadual do Sudoeste da Bahia
- * Nome: Jenifer de Jesus Jang 
+/* Nome: Jenifer de Jesus Jang 
  * Data de inicio: 15/04/2019
  * Data da ultima alteracao: 29/04/2019
  * Funcao: Analisador sintatico descendente recursivo da linguagem A*/
