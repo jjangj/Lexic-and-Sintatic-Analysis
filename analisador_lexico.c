@@ -1,5 +1,4 @@
-/* Universidade Estadual do Sudoeste da Bahia
- * Nome: Jenifer de Jesus Jang e Stefanie Caroline
+/* Nome: Jenifer de Jesus Jang
  * Data de inicio: 21/01/2019
  * Data da ultima alteracao: 16/02/2019
  * Funcao: Analisador lexico da linguagem A implementado
