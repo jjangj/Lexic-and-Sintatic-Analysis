@@ -1,0 +1,15 @@
+var termo1 ,termo2 , cont , aux ;	
+begin
+        termo1 := 0 ;
+        termo2 := 1 ;
+        c := 0 ;
+        while c < 10 do
+            begin
+        write termo1 ;
+        aux := termo1 + termo2 ;
+        termo1 := termo2 ;
+        termo2 := aux ;
+        c := c + 1 ;
+            end
+        end .
+
